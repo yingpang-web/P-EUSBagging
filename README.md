@@ -6,7 +6,7 @@ Implementation of the paper:
 
 ## Framework Overview  
 ### PBIL-Guided Imbalanced Ensemble Model  
-![Framework](image/PBIL-ensemble learning model.png)  
+![Framework](./image/PBIL-ensemble learning model.png)  
 
 ### Evolutionary Undersampling Process  
 ![Undersampling](image/the schematic of evolutionary undersampling.png)  
